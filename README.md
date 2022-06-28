@@ -7,8 +7,6 @@ Canadian turned Mancunian developer currently working in the Health Tech industr
 
 I am very passionate about working on projects with positive social impact. As someone with a chronic illness I have seen first hand how life changing the right technology can be, and my personal goal is to create tools that can help the most vulnerable in our communities.
 
-I mostly focus on web development, but i've taken an interest in mobile development recently.
-
 ---
 
 ### Languages and Tools
