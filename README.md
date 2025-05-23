@@ -3,9 +3,7 @@
 <img src="https://github.com/quinnter/quinnter/raw/main/imgs/laptop_memoji.PNG" align="right" height="220" />
 
 
-Canadian turned Mancunian developer currently working in the Health Tech industry. 
-
-I am very passionate about working on projects with positive social impact. As someone with a chronic illness I have seen first hand how life changing the right technology can be, and my personal goal is to create tools that can help the most vulnerable in our communities.
+Canadian turned Mancunian developer
 
 ---
 
@@ -29,8 +27,8 @@ I am very passionate about working on projects with positive social impact. As s
 ---
 
 ### Things That Interest Me 
-&nbsp;&nbsp;&nbsp;🏠 &nbsp;Smart Home Technology: I've got a Raspberry Pi running [Home Assistant](https://www.home-assistant.io/). Repo coming soon!  \
+&nbsp;&nbsp;&nbsp;🏠 &nbsp;Smart Home Technology: I've got a Raspberry Pi running [Home Assistant](https://www.home-assistant.io/).  \
 &nbsp;&nbsp;&nbsp;🏥  Health Technology & Tech for Good: I love working towards making positive changes. \
-&nbsp;&nbsp;&nbsp;🧑‍🎨  Data visualisation and visual essays. [The Pudding](https://pudding.cool/) is one of my inspirations. \
+&nbsp;&nbsp;&nbsp;🧑‍🎨  Data visualisation and visual essays. \
 &nbsp;&nbsp;&nbsp;😻 Teaching my cat tricks [(yes I am serious)](https://www.linkedin.com/posts/lauraaquinn16_is-it-weird-to-share-cat-content-here-activity-6852974368281178112-hh0o?utm_source=linkedin_share&utm_medium=member_desktop_web) \
 &nbsp;&nbsp;&nbsp;🪡 🧶 📷  Literally any artsy hobby you can think of, I'm always down to try something new. 
